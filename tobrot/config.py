@@ -7,14 +7,14 @@ class Config(Config):
     API_HASH = "dbc0763f2ec0505c88130f3ab7b64484"
     AUTH_CHANNEL = [-1001153183002]
     INDEX_LINK = "https://torrentleech.torrentleech-gdrive.workers.dev"
-    GLEECH_COMMAND = "gleech@Torrentsgspfirbot"
-    YTDL_COMMAND = 'ytdl@Torrentsgspfirbot'
-    TELEGRAM_LEECH_COMMAND_G = "tleech@Torrentsgspfirbot"
-    CLONE_COMMAND_G = "gclone@Torrentsgspfirbot"
-    PYTDL_COMMAND_G = "pytdl@Torrentsgspfirbot"
+    GLEECH_COMMAND = "gleech"
+    YTDL_COMMAND = 'ytdl'
+    TELEGRAM_LEECH_COMMAND_G = "tleech"
+    CLONE_COMMAND_G = "gclone"
+    PYTDL_COMMAND_G = "pytdl"
     STATUS_COMMAND = "status "
     DESTINATION_FOLDER = "TorrentLeech-Gdrive"
-    LEECH_COMMAND = "leech@Torrentsgspfirbot"
+    LEECH_COMMAND = "leech"
     #fill your rclone config like this(Your config may have some extra value or less. so Don't worry)
     # Do not delete [DRIVE] #do not delete [DRIVE] but replace remaining part with yours data..if more data use common sense
     RCLONE_CONFIG = """
