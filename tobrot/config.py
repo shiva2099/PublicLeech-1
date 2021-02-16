@@ -1,11 +1,11 @@
 from tobrot.sample_config import Config
 
 class Config(Config):
-    TG_BOT_TOKEN= "1628402870:AAHbBDyOFIHosT3yr-FaPu8him9i7X8Ppf4"
+    TG_BOT_TOKEN= "1684944572:AAHK_HnIN1eXma7ZGtv-_Tzg73SMGbzCeLE"
     APP_ID = 2699106
     OWNER_ID = 1218670347
     API_HASH = "dbc0763f2ec0505c88130f3ab7b64484"
-    AUTH_CHANNEL = [-1001153183002]
+    AUTH_CHANNEL = [-582339729]
     INDEX_LINK = "https://torrentleech.torrentleech-gdrive.workers.dev"
     GLEECH_COMMAND = "gleech"
     YTDL_COMMAND = 'ytdl'
